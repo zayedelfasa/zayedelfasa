@@ -9,7 +9,7 @@ I Work at [PT. Renjana Abi Yasa](https://ray.co.id) as a Developer. For more inf
 1. React Native
 2. Flutter
 
-🖥️ I like BackEnd Programming with : 
+🖥️ BackEnd Programming with : 
 1. .NET Core (i learn on 2020).
 
 Thanks for visit me! 😀
