@@ -1,7 +1,13 @@
 ## Introduction Self
-ZAYED ELFASA as a Developer from Indonesia 🇮🇩
+Name : Zayed Elfasa
 
-Work on [PT. Renjana Abi Yasa](https://ray.co.id) as a Developer. For more information about me, [check out](https://www.linkedin.com/in/zayed-elfasa-610225b2/).
+Role : Developer
+
+State : Indonesia 🇮🇩
+
+Work : [PT. Renjana Abi Yasa](https://ray.co.id)
+
+About Me : [LinkedIn](https://www.linkedin.com/in/zayed-elfasa-610225b2/)
 
 ### Skills : 
 
