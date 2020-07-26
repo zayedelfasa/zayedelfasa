@@ -1,9 +1,5 @@
 ## Introduction Self
-Name : Zayed Elfasa
-
-Role : Developer
-
-State : Indonesia 🇮🇩
+Name : Zayed Elfasa  -  Role : Developer  -  State : Indonesia 🇮🇩
 
 Work : [PT. Renjana Abi Yasa](https://ray.co.id)
 
